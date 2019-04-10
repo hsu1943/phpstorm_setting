@@ -1,1 +1,6 @@
-<code_scheme name="Default copy" />
+<code_scheme name="Default copy">
+  <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
