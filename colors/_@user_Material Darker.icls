@@ -4,7 +4,7 @@
     <property name="created">2018-08-11T00:10:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-07-09T19:03:41</property>
+    <property name="modified">2019-08-21T19:11:39</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2506,7 +2506,7 @@
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="7f7f7f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
