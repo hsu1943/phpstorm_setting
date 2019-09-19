@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="http" type="PHP" />
       <mapping pattern="sale" type="PLAIN_TEXT" />
+      <mapping pattern="rolePermission.txt" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
