@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="function" type="PHP" />
       <mapping pattern="http" type="PHP" />
       <mapping pattern="sale" type="PLAIN_TEXT" />
       <mapping pattern="rolePermission.txt" type="PLAIN_TEXT" />
