@@ -78,6 +78,7 @@
             <configuration_option name="ignore_repeated_errors" value="" />
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
+            <configuration_option name="imap.enable_insecure_rsh" value="0" />
             <configuration_option name="implicit_flush" value="1" />
             <configuration_option name="include_path" value="D:\xampp72\php\PEAR" />
             <configuration_option name="input_encoding" value="" />
@@ -228,6 +229,7 @@
             <extension name="gettext" />
             <extension name="hash" />
             <extension name="iconv" />
+            <extension name="imap" />
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
