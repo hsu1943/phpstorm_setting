@@ -4,18 +4,11 @@
     <property name="created">2018-08-11T00:10:44</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-10-30T10:35:16</property>
+    <property name="modified">2021-01-14T17:32:36</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="11" />
@@ -25,6 +18,7 @@
     <option name="EDITOR_FONT_SIZE" value="11" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_NAME" value="DialogInput" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
