@@ -8,6 +8,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
