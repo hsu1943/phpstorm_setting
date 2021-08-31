@@ -6,11 +6,6 @@
           <option name="SHOW_WHITESPACES" value="true" />
         </PlaceSettings>
       </entry>
-      <entry key="Merge">
-        <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
-        </PlaceSettings>
-      </entry>
     </option>
   </component>
 </application>
