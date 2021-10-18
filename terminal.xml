@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files\WindowsApps\Microsoft.PowerShell_7.1.4.0_x64__8wekyb3d8bbwe\pwsh.exe" />
+    <option name="myShellPath" value="D:\Program Files\Git\git-cmd.exe" />
   </component>
 </application>
