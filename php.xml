@@ -254,7 +254,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP7.4">
-        <phpinfo binary_type="PHP" php_cgi="D:\xampp72\php-7.4.19\php-cgi.exe" php_cli="D:\xampp72\php-7.4.19\php.exe" path_separator=";" version="7.4.19">
+        <phpinfo binary_type="PHP" php_cgi="D:\xampp72\php-7.4.19\php-cgi.exe" php_cli="D:\xampp72\php-7.4.19\php.exe" path_separator=";" version="7.4.19" warning="Xdebug: [Config] The setting 'xdebug.remote_enable' has been renamed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable (See: https://xdebug.org/docs/errors#CFG-C-CHANGED)&#10;">
           <additional_php_ini />
           <configuration_file>D:\xampp72\php-7.4.19\php.ini</configuration_file>
           <configuration_options>
@@ -477,15 +477,21 @@
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
             <configuration_option name="windows.show_crt_warning" value="0" />
-            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.auto_trace" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.auto_trace" />
             <configuration_option name="xdebug.cli_color" value="0" />
+            <configuration_option name="xdebug.client_discovery_header" value="" />
+            <configuration_option name="xdebug.client_host" value="127.0.0.1" />
+            <configuration_option name="xdebug.client_port" value="9003" />
+            <configuration_option name="xdebug.cloud_id" value="" />
             <configuration_option name="xdebug.collect_assignments" value="0" />
-            <configuration_option name="xdebug.collect_includes" value="1" />
-            <configuration_option name="xdebug.collect_params" value="0" />
+            <configuration_option name="xdebug.collect_includes" value="This setting has been removed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#removed-xdebug.collect_includes" />
+            <configuration_option name="xdebug.collect_params" value="This setting has been removed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#removed-xdebug.collect_params" />
             <configuration_option name="xdebug.collect_return" value="0" />
-            <configuration_option name="xdebug.collect_vars" value="0" />
-            <configuration_option name="xdebug.coverage_enable" value="1" />
-            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.collect_vars" value="This setting has been removed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#removed-xdebug.collect_vars" />
+            <configuration_option name="xdebug.connect_timeout_ms" value="200" />
+            <configuration_option name="xdebug.coverage_enable" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.coverage_enable" />
+            <configuration_option name="xdebug.default_enable" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.default_enable" />
+            <configuration_option name="xdebug.discover_client_host" value="0" />
             <configuration_option name="xdebug.dump.COOKIE" value="" />
             <configuration_option name="xdebug.dump.ENV" value="" />
             <configuration_option name="xdebug.dump.FILES" value="" />
@@ -501,44 +507,47 @@
             <configuration_option name="xdebug.filename_format" value="" />
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
-            <configuration_option name="xdebug.gc_stats_enable" value="0" />
-            <configuration_option name="xdebug.gc_stats_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.gc_stats_enable" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.gc_stats_enable" />
+            <configuration_option name="xdebug.gc_stats_output_dir" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.gc_stats_output_dir" />
             <configuration_option name="xdebug.gc_stats_output_name" value="gcstats.%p" />
             <configuration_option name="xdebug.halt_level" value="0" />
             <configuration_option name="xdebug.idekey" value="PHPSTORM" />
+            <configuration_option name="xdebug.log" value="" />
+            <configuration_option name="xdebug.log_level" value="7" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
-            <configuration_option name="xdebug.overload_var_dump" value="2" />
-            <configuration_option name="xdebug.profiler_aggregate" value="0" />
+            <configuration_option name="xdebug.mode" value="debug" />
+            <configuration_option name="xdebug.output_dir" value="D:\data\xdebug_log" />
+            <configuration_option name="xdebug.overload_var_dump" value="This setting has been removed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#removed-xdebug.overload_var_dump" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
-            <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_enable" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.profiler_enable" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.profiler_enable_trigger" />
+            <configuration_option name="xdebug.profiler_enable_trigger_value" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.profiler_enable_trigger_value" />
+            <configuration_option name="xdebug.profiler_output_dir" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.profiler_output_dir" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
-            <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
-            <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
-            <configuration_option name="xdebug.remote_enable" value="0" />
-            <configuration_option name="xdebug.remote_handler" value="dbgp" />
-            <configuration_option name="xdebug.remote_host" value="localhost" />
-            <configuration_option name="xdebug.remote_log" value="" />
-            <configuration_option name="xdebug.remote_log_level" value="7" />
-            <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9001" />
-            <configuration_option name="xdebug.remote_timeout" value="200" />
+            <configuration_option name="xdebug.remote_autostart" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_autostart" />
+            <configuration_option name="xdebug.remote_connect_back" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_connect_back" />
+            <configuration_option name="xdebug.remote_enable" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_enable" />
+            <configuration_option name="xdebug.remote_host" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_host" />
+            <configuration_option name="xdebug.remote_log" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_log" />
+            <configuration_option name="xdebug.remote_log_level" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_log_level" />
+            <configuration_option name="xdebug.remote_mode" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_mode" />
+            <configuration_option name="xdebug.remote_port" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_port" />
+            <configuration_option name="xdebug.remote_timeout" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.remote_timeout" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
             <configuration_option name="xdebug.show_local_vars" value="0" />
-            <configuration_option name="xdebug.show_mem_delta" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger" value="0" />
-            <configuration_option name="xdebug.trace_enable_trigger_value" value="" />
+            <configuration_option name="xdebug.show_mem_delta" value="This setting has been removed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#removed-xdebug.show_mem_delta" />
+            <configuration_option name="xdebug.start_upon_error" value="default" />
+            <configuration_option name="xdebug.start_with_request" value="default" />
+            <configuration_option name="xdebug.trace_enable_trigger" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.trace_enable_trigger" />
+            <configuration_option name="xdebug.trace_enable_trigger_value" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.trace_enable_trigger_value" />
             <configuration_option name="xdebug.trace_format" value="0" />
             <configuration_option name="xdebug.trace_options" value="0" />
-            <configuration_option name="xdebug.trace_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.trace_output_dir" value="This setting has been changed, see the upgrading guide at https://xdebug.org/docs/upgrade_guide#changed-xdebug.trace_output_dir" />
             <configuration_option name="xdebug.trace_output_name" value="trace.%c" />
+            <configuration_option name="xdebug.trigger_value" value="" />
             <configuration_option name="xdebug.var_display_max_children" value="128" />
             <configuration_option name="xdebug.var_display_max_data" value="512" />
             <configuration_option name="xdebug.var_display_max_depth" value="3" />
@@ -555,7 +564,7 @@
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.1">
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
