@@ -352,6 +352,8 @@
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="memory_limit" value="1024M" />
+            <configuration_option name="mongodb.debug" value="" />
+            <configuration_option name="mongodb.mock_service_id" value="0" />
             <configuration_option name="mysqli.allow_local_infile" value="0" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -593,6 +595,7 @@
             <extension name="json" />
             <extension name="libxml" />
             <extension name="mbstring" />
+            <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="openssl" />
