@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="log" type="AUTO_DETECTED" />
       <mapping pattern="http" type="PHP" />
       <mapping pattern="image-auto-sync" type="PHP" />
       <mapping pattern="function" type="PHP" />
