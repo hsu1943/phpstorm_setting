@@ -1,8 +1,16 @@
-<code_scheme name="Default copy">
+<code_scheme name="Default copy" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+    <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
+  </PHPCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
 </code_scheme>
