@@ -2,7 +2,9 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_INLINE_COMMENTS" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
   </PHPCodeStyleSettings>
