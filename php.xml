@@ -1,65 +1,11 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="4b2ec7fd-29fb-4107-b7ca-fcd88fbe2501" name="PHP 7.2" home="D:\xampp72\php\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="c4fa9b2d-1e48-4f94-b435-93599d8da266" name="PHP7.4" home="C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="D:\xampp72\php\php-cgi.exe" php_cli="D:\xampp72\php\php.exe" path_separator=";" version="7.2.31">
-          <additional_php_ini />
-          <configuration_file>D:\xampp72\php\php.ini</configuration_file>
-          <configuration_options>
-            <configuration_option name="include_path" value="D:\xampp72\php\PEAR" />
-          </configuration_options>
-          <debuggers />
-          <loaded_extensions>
-            <extension name="Core" />
-            <extension name="PDO" />
-            <extension name="Phar" />
-            <extension name="Reflection" />
-            <extension name="SPL" />
-            <extension name="SimpleXML" />
-            <extension name="bcmath" />
-            <extension name="bz2" />
-            <extension name="calendar" />
-            <extension name="ctype" />
-            <extension name="curl" />
-            <extension name="date" />
-            <extension name="dom" />
-            <extension name="exif" />
-            <extension name="fileinfo" />
-            <extension name="filter" />
-            <extension name="ftp" />
-            <extension name="gd" />
-            <extension name="gettext" />
-            <extension name="hash" />
-            <extension name="iconv" />
-            <extension name="imap" />
-            <extension name="json" />
-            <extension name="libxml" />
-            <extension name="mbstring" />
-            <extension name="mysqli" />
-            <extension name="mysqlnd" />
-            <extension name="openssl" />
-            <extension name="pcre" />
-            <extension name="pdo_mysql" />
-            <extension name="pdo_sqlite" />
-            <extension name="readline" />
-            <extension name="session" />
-            <extension name="standard" />
-            <extension name="tokenizer" />
-            <extension name="wddx" />
-            <extension name="xml" />
-            <extension name="xmlreader" />
-            <extension name="xmlwriter" />
-            <extension name="zip" />
-            <extension name="zlib" />
-          </loaded_extensions>
-        </phpinfo>
-      </interpreter>
       <interpreter name="PHP7.4">
         <phpinfo binary_type="PHP" php_cgi="C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64\php-cgi.exe" php_cli="C:\laragon\bin\php\php-7.4.19-Win32-vc15-x64\php.exe" path_separator=";" version="7.4.19">
           <additional_php_ini />
