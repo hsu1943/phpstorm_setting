@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="jsontoxlsx" type="AUTO_DETECTED" />
-      <mapping pattern="yii" type="AUTO_DETECTED" />
       <mapping pattern="http" type="PHP" />
       <mapping pattern="image-auto-sync" type="PHP" />
       <mapping pattern="function" type="PHP" />
@@ -13,7 +12,6 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="htaccess" type="PLAIN_TEXT" />
-      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="AUTO_DETECTED" />
     </extensionMap>

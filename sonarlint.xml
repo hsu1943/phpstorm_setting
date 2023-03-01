@@ -1,6 +1,0 @@
-<application>
-  <component name="SonarLintGlobalSettings">
-    <option name="secretsNeverBeenAnalysed" value="false" />
-    <rules />
-  </component>
-</application>
