@@ -1,5 +1,8 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/D:/Program%20Files/JetBrains/PhpStorm%202017.1.5/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/D:/Program%20Files/JetBrains/PhpStorm%202017.1.5/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css">
+      <option name="fontFamily" value="JetBrains Mono" />
+      <option name="fontSize" value="13" />
+    </MarkdownCssSettings>
   </component>
 </application>
